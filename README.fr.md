@@ -4,7 +4,16 @@
   <a href="assets/demo.mp4"><img src="assets/demo.gif" alt="Démo de Marsad : joueurs suivis avec leur équipe et carte 2D du terrain" width="100%"></a>
 </p>
 
-**[▶ Voir la présentation du projet sur LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7524871720399257601/)**
+<p align="center">
+  <a href="https://www.linkedin.com/feed/update/urn:li:activity:7524871720399257601/">
+    <img src="https://img.shields.io/badge/Voir%20la%20pr%C3%A9sentation%20sur-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Voir la présentation sur LinkedIn" height="40">
+  </a>
+  <br>
+  <a href="https://www.linkedin.com/feed/update/urn:li:activity:7524871720399257601/">
+    <img src="https://img.shields.io/badge/👍%20800%2B-r%C3%A9actions-0A66C2?style=flat-square" alt="800+ réactions">
+    <img src="https://img.shields.io/badge/🔁%2018-republications-0A66C2?style=flat-square" alt="18 republications">
+  </a>
+</p>
 
 [English](README.md) | **Français**
 

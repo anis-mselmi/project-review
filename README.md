@@ -4,7 +4,16 @@
   <a href="assets/demo.mp4"><img src="assets/demo.gif" alt="Marsad demo: players tracked with team labels and a live 2D pitch map" width="100%"></a>
 </p>
 
-**[▶ Watch the project presentation on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7524871720399257601/)**
+<p align="center">
+  <a href="https://www.linkedin.com/feed/update/urn:li:activity:7524871720399257601/">
+    <img src="https://img.shields.io/badge/Watch%20the%20presentation%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Watch the presentation on LinkedIn" height="40">
+  </a>
+  <br>
+  <a href="https://www.linkedin.com/feed/update/urn:li:activity:7524871720399257601/">
+    <img src="https://img.shields.io/badge/👍%20800%2B-reactions-0A66C2?style=flat-square" alt="800+ reactions">
+    <img src="https://img.shields.io/badge/🔁%2018-reposts-0A66C2?style=flat-square" alt="18 reposts">
+  </a>
+</p>
 
 **English** | [Français](README.fr.md)
 
