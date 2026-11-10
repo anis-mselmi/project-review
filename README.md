@@ -1,10 +1,8 @@
 # Marsad
 
-<video src="assets/demo.mp4" controls autoplay muted loop width="100%"></video>
-
-<!-- GitHub only plays videos it hosts itself. In the GitHub web editor, drag assets/demo.mp4 onto
-     this README and replace the <video> line above with the https://github.com/user-attachments/...
-     URL that GitHub inserts. -->
+<p align="center">
+  <a href="assets/demo.mp4"><img src="assets/demo.gif" alt="Marsad demo: players tracked with team labels and a live 2D pitch map" width="100%"></a>
+</p>
 
 **[▶ Watch the project presentation on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7524871720399257601/)**
 

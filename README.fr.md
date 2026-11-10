@@ -1,6 +1,8 @@
 # Marsad
 
-<video src="assets/demo.mp4" controls autoplay muted loop width="100%"></video>
+<p align="center">
+  <a href="assets/demo.mp4"><img src="assets/demo.gif" alt="Démo de Marsad : joueurs suivis avec leur équipe et carte 2D du terrain" width="100%"></a>
+</p>
 
 **[▶ Voir la présentation du projet sur LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7524871720399257601/)**
 
