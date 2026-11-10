@@ -1,16 +1,14 @@
 # Marsad
 
+<video src="assets/demo.mp4" controls autoplay muted loop width="100%"></video>
+
+**[▶ Voir la présentation du projet sur LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7524871720399257601/)**
+
 [English](README.md) | **Français**
 
 Pipeline de vision par ordinateur qui analyse les vidéos de diffusion des matchs de Ligue 1
 tunisienne : détection et suivi des joueurs, identification des équipes et carte tactique 2D du
 terrain.
-
-## Démo
-
-https://github.com/anis-mselmi/Marsad/raw/main/assets/demo.mp4
-
-Présentation du projet sur LinkedIn : [voir le post](https://www.linkedin.com/feed/update/urn:li:activity:7524871720399257601/)
 
 ## Présentation
 

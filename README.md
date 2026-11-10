@@ -1,5 +1,13 @@
 # Marsad
 
+<video src="assets/demo.mp4" controls autoplay muted loop width="100%"></video>
+
+<!-- GitHub only plays videos it hosts itself. In the GitHub web editor, drag assets/demo.mp4 onto
+     this README and replace the <video> line above with the https://github.com/user-attachments/...
+     URL that GitHub inserts. -->
+
+**[▶ Watch the project presentation on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7524871720399257601/)**
+
 **English** | [Français](README.fr.md)
 
 A computer vision pipeline that analyzes Tunisian Ligue 1 broadcast match videos: player detection and tracking, team identification, and a 2D tactical pitch map.
@@ -8,16 +16,7 @@ A computer vision pipeline that analyzes Tunisian Ligue 1 broadcast match videos
 ![Status](https://img.shields.io/badge/status-experimental-orange)
 <!-- TODO: add a license badge once a LICENSE file is chosen and committed -->
 
-## Demo
-
-https://github.com/anis-mselmi/Marsad/raw/main/assets/demo.mp4
-
-<!-- For inline playback on GitHub, open this README in the GitHub web editor, drag assets/demo.mp4
-     into it, and replace the line above with the generated https://github.com/user-attachments/... URL. -->
-
-*Detections labelled by team and ID, the 2D pitch map in the bottom-right corner, and the bottom strip with the ball carrier.*
-
-Project announcement on LinkedIn: [read the post](https://www.linkedin.com/feed/update/urn:li:activity:7524871720399257601/)
+*Demo: detections labelled by team and ID, the 2D pitch map in the bottom-right corner, and the bottom strip with the ball carrier.*
 
 ## Overview
 
