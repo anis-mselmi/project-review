@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.png" alt="Marsad logo: Football Computer Vision" width="420">
+</p>
+
 # Marsad
 
 <p align="center">
@@ -18,6 +22,9 @@
 **English** | [Français](README.fr.md)
 
 A computer vision pipeline that analyzes Tunisian Ligue 1 broadcast match videos: player detection and tracking, team identification, and a 2D tactical pitch map.
+
+> [!NOTE]
+> **The source code is in a private repository.** This page describes the project. If you would like access to the code, contact me on [LinkedIn](https://www.linkedin.com/in/anis-mselmi-441b39326) or [GitHub](https://github.com/anis-mselmi).
 
 ![Python](https://img.shields.io/badge/python-3.11-blue)
 ![Status](https://img.shields.io/badge/status-experimental-orange)
@@ -157,6 +164,8 @@ Marsad/
 </details>
 
 ## Getting started
+
+> The steps below need access to the private repository. [Contact me](#license-and-author) to request it.
 
 ### Prerequisites
 
@@ -310,7 +319,7 @@ Known limitations, from the code and the test clips:
 
 ## Contributing
 
-Issues and pull requests are welcome.
+The repository is private, so contributions are by invitation. If you would like to contribute, contact me first.
 
 - Open an issue first for larger changes.
 - Keep thresholds in `configs/`, not in code.
