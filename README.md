@@ -58,6 +58,13 @@ onto a top-down pitch so the match can be read tactically.
 
 ## How it works
 
+<p align="center">
+  <img src="assets/architecture.png" alt="Marsad architecture: frame extraction, YOLO detection, grass mask and feet-based filtering feed three branches (multi-object tracking with RobustMapper, pitch calibration and localization, team and role classification), fused into the annotated video, 2D tactical map and tracking statistics" width="100%">
+</p>
+
+<details>
+<summary>Simplified pipeline (Mermaid)</summary>
+
 ```mermaid
 flowchart LR
     A[Broadcast video] --> B[YOLOv8 detection<br/>+ grass mask]
@@ -72,6 +79,8 @@ flowchart LR
     I --> K[annotated.mp4]
     J --> L[tracks.txt, counts.csv/json,<br/>summary.json]
 ```
+
+</details>
 
 1. **Detection**: YOLOv8m at 1920 px, low confidence threshold so trackers can use weak boxes.
    A grass mask in HSV keeps only people standing on the pitch.
